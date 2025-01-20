@@ -30,19 +30,19 @@ Data was loaded into Power BI for analysis, and visualizations were created to a
 
 1. Data Loading and Cleaning:
 
-  a. Loaded the dataset into Power BI.
-  b. Cleaned the data by checking for missing values and inconsistencies.
-  c. The data was transformed to provide meaningful insights.
+a. Loaded the dataset into Power BI.
+b. Cleaned the data by checking for missing values and inconsistencies.
+c. The data was transformed to provide meaningful insights.
 
 2. Visualizations:
 
-  a. Clustered Bar Chart: This chart shows how male and female employees are distributed across different departments. The gender counts were plotted for each department, 
+ a. Clustered Bar Chart: This chart shows how male and female employees are distributed across different departments. The gender counts were plotted for each department, 
      making it easier to visualize which departments have gender imbalances.
-  b. Pie Chart: A pie chart was created to show the overall gender distribution across the entire company. This provides a quick overview of the male-to-female ratio.
+ b. Pie Chart: A pie chart was created to show the overall gender distribution across the entire company. This provides a quick overview of the male-to-female ratio.
 
 3. Dashboard Creation:
 
-   a. Both visualizations were placed on a single Power BI dashboard, making it easy for stakeholders to understand gender diversity at a glance.
+a. Both visualizations were placed on a single Power BI dashboard, making it easy for stakeholders to understand gender diversity at a glance.
 
 # CHALLENGES FACED
 1. KPI Not Displaying: One of the challenges faced was creating and displaying the KPI for gender distribution. Despite multiple attempts to create a meaningful measure for 
